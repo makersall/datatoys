@@ -1,0 +1,28 @@
+title: Data Toys
+author: Anders Schneiderman
+email: your-email@domain.com
+description: Experiments applying Makers All Framework to making working with data more playful for non-geeks
+
+# Menu data for sitewide navigation
+navigation_links:
+  - name: About
+    link: 'about/'
+  - name: Goals
+    link: 'goals/'
+  - name: 'Gameboards as Dashboards'
+    link: 'gamedashboards/'
+  - name: FAQ
+    link: 'faq/'
+  # - name: 'The Road so Far'
+  #   link: 'road/'
+  # - name: Principles
+    # link: 'principles/'
+  # - name: Strategy
+  # link: 'strategy/'
+  # - name: Blog
+  #   link: 'blog/'
+  # # - name: Links
+    # link: 'links'
+  - name: Makers All
+    link: 'https://makersall.org/'
+
