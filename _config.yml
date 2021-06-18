@@ -7,10 +7,10 @@ description: Experiments applying Makers All Framework to making working with da
 navigation_links:
   - name: About
     link: 'about/'
-  - name: Goals
-    link: 'goals/'
+  # - name: Goals
+    # link: 'goals/'
   - name: 'Gameboards as Dashboards'
-    link: 'gamedashboards/'
+    link: 'gamedashboard/'
   - name: FAQ
     link: 'faq/'
   # - name: 'The Road so Far'
