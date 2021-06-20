@@ -1,8 +1,8 @@
 ---
 layout: content
 title: Dashboards As Game Boards
-permalink: /gamedashboards/
-image: toys-united-520246-pxh.jpg
+permalink: /dashboard-gameboard/
+image: game-pieces-792032.jpg
 ---
 
 Our current project is Game Boards As Daashboards.

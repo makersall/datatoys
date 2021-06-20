@@ -14,5 +14,8 @@ Data Toys is a framework that helps organizations unleash the power of analytics
 - Building an ecosystem across organizations so they can share knowledge, pool resources, and collectively work to [smooth the learning curve](https://toolkit.makersall.org/pages/30-smooth/00-index.html) from beginner to power user to data scientist/engineer
 - Using this ecosystem across organizations to connect large organizations to the community, so communities can also benefit -- and in doing so, laying the groundwork to help communities from Harlem to Harlan County [benefit from the explosion of wealth](https://toolkit.makersall.org) that will be created by AI, AR/VR, and other forms of under window emerging tech over the next 20 years.
 
+Our current project is [Game Boards As Daashboards](./dashboard-gameboard/).
+
+
 _NOTE: Data Toys is a work in progress. This is v.0.3_
 

@@ -2,7 +2,7 @@
 layout: content
 title: FAQ
 permalink: /faq/
-image: toy-community-666525-pxh.jpg
+image: volkswagen-africa-927188.jpg
 ---
 
 
