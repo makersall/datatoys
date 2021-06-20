@@ -4,6 +4,8 @@ layout: content
 image: datatoys.jpg
 ---
 
+[Make clear that this is aimed at adults, not kids]
+
 The more important data is to our economy, the more we need people who can slice, dice, and explain data. That's why today the demand for folks who are good at working with data is almost insatiable. 
 
 At the same time, the tools that let people who aren't coders transform and analyze data are getting more and more powerful. Even fields such as machine learning, which used to require many years of experience and often an advanced degree, are slowly opening up with the rise of tools such as "Auto ML."
